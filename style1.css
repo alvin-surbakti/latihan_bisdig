@@ -1,0 +1,12 @@
+#page-container { width: 760px; margin: auto; background: rgb(255, 0, 0);}
+#header {
+background: blue;
+height: 150px;
+}
+#content {
+background: green;
+}
+#footer {
+background: orange;
+height: 66px;
+}
